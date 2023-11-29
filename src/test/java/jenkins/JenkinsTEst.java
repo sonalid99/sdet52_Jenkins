@@ -15,6 +15,6 @@ public class JenkinsTEst {
 	@Test(groups = "smoke")
 	public void test2()
 	{
-		System.out.println("-- test-1 ---");
+		System.out.println("-- test-2 ---");
 	}
 }

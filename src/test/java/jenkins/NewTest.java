@@ -10,9 +10,9 @@ public class NewTest {
 		System.out.println("--New --");
 	}
 	
-	@Test(groups = "smoke")
+	@Test
 	public void new2TEst()
 	{
-		System.out.println("--New --");
+		System.out.println("--New2 --");
 	}
 }
