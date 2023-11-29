@@ -14,5 +14,6 @@ public class DemoTest {
 	public void demo2Test()
 	{
 		System.out.println("-- demo2 test --");
+		System.out.println("hii");
 	}
 }
