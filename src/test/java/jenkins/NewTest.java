@@ -14,5 +14,10 @@ public class NewTest {
 	public void new2TEst()
 	{
 		System.out.println("--New2 --");
+		
+		
+		
+		
+		
 	}
 }
