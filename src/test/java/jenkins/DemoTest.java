@@ -2,7 +2,7 @@ package jenkins;
 
 import org.testng.annotations.Test;
 
-public class DemoTest {
+public class DemoTest extends BaseParameters {
 
 	@Test(groups = "regression")
 	public void demoTest()
