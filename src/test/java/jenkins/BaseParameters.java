@@ -19,6 +19,7 @@ public class BaseParameters {
 		WebDriver driver;
 		
 		if(Browser.equalsIgnoreCase("chrome")) {
+		
 		driver=new ChromeDriver();
 		}
 		
