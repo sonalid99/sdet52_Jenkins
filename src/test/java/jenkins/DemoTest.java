@@ -16,4 +16,11 @@ public class DemoTest {
 		System.out.println("-- demo2 test --");
 		System.out.println("hii");
 	}
+	
+	@Test
+	public void demo3Test()
+	{
+		System.out.println("-- demo3 test --");
+		System.out.println("byeee");
+	}
 }
