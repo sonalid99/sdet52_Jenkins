@@ -12,7 +12,11 @@ public class BaseParameters {
 	public void parameters() {
 		String Browser=System.getProperty("browser");
 		String Url=System.getProperty("url");
-		WebDriver driver;
+		
+		System.out.println(Browser);
+		System.out.println(Url);
+		
+		/*WebDriver driver;
 		if(Browser.equalsIgnoreCase("chrome")) {
 		driver=new ChromeDriver();
 		}
@@ -29,6 +33,6 @@ public class BaseParameters {
 		driver=new ChromeDriver();
 		}
 		
-		driver.get(Url);
+		driver.get(Url);*/
 	}
 }
