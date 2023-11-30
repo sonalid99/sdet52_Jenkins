@@ -16,7 +16,8 @@ public class BaseParameters {
 		System.out.println(Browser);
 		System.out.println(Url);
 		
-		/*WebDriver driver;
+		WebDriver driver;
+		
 		if(Browser.equalsIgnoreCase("chrome")) {
 		driver=new ChromeDriver();
 		}
@@ -33,6 +34,6 @@ public class BaseParameters {
 		driver=new ChromeDriver();
 		}
 		
-		driver.get(Url);*/
+		driver.get(Url);
 	}
 }
